@@ -4,7 +4,7 @@ An automated AI voice bot for testing patient-facing conversational agents.
 
 ## Overview
 
-This project was created for the Pretty Good AI Engineering Challenge. It uses Python and Retell AI to create a simulated patient that makes outbound phone calls to a healthcare conversational agent.
+Hello! This project was created for the Pretty Good AI Engineering Challenge. It uses Python and Retell AI to create a simulated patient that makes outbound phone calls to a healthcare conversational agent.
 
 The goal is to test how the agent handles realistic patient conversations and identify issues with conversation flow, turn-taking, and task completion.
 
