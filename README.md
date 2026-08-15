@@ -32,7 +32,7 @@ Corresponding transcripts are located in the `transcripts/` folder.
 ### 1. Clone the repository
 
 ```bash
-git clone <https://github.com/lanaVu-stack/pgai-ai-engineering-challenge.git>
+git clone https://github.com/lanaVu-stack/pgai-ai-engineering-challenge.git
 cd pgai-ai-engineering-challenge
 ```
 
