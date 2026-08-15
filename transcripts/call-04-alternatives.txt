@@ -1,0 +1,31 @@
+CALL 04 — ROUTINE APPOINTMENT ALTERNATIVE DATE CHANGE
+
+Scenario:
+Existing patient wants to schedule a routine appointment next week, and offers alternatve times.
+
+Result:
+Appointment successfully scheduled.
+
+TRANSCRIPT
+
+user: This call may be recorded for quality and training purposes. 
+agent: Hi, 
+user: Thank you. 
+agent: I’d like to reschedule my appointment.
+user: Would you like to create a demo patient profile first? I just need your first and last name to get started. 
+agent: My name is Louise Nguyen.
+user: You have an appointment scheduled for Monday, August seventeenth. At three PM with doctor Zebigniew Likoski at Nashville. Two two zero Athens Way, Is this the appointment you want to reschedule? 
+agent: Yes, that’s the one I need to reschedule.
+user: I have openings on Monday, August seventeenth at ten AM. Ten thirty AM, and three thirty PM with doctor Zibignu Likoski in Nashville. Do any of these times work for you, or would you like to look at other dates? 
+agent: I’m not available that day. Could you check for openings next week in the afternoon?
+user: I have openings next week on Tuesday. August eighteenth at two PM, three PM, and three thirty PM. With doctor Zebigniew Likoski in Nashville. Would any of these times work for you? 
+agent: Three PM on Tuesday works for me. Can you book that, please?
+user: Before I reschedule, can you tell me the reason you need to move your appointment? 
+agent: I’m unavailable that day due to a scheduling conflict.
+user: You'd like to move your appointment to Tuesday, August eighteenth at three PM. With doctor Zigbenu Lukoski in Nashville. Is that correct? 
+agent: Yes, that’s correct.
+user: Your appointment has been rescheduled for Tuesday, August eighteenth at three PM. With doctors in Nashville, Would you like a text message with your new appointment details? 
+agent: Yes, a text message would be great. Thanks for your help!
+user: You'll get a text with your updated appointment details soon. If you need anything else, just let me know. 
+agent: Thanks, that’s all I needed. Have a good 
+agent: day!

@@ -1,6 +1,6 @@
 import os
 from dotenv import load_dotenv
-
+from retell import Retell
 
 def main():
     load_dotenv()
@@ -20,12 +20,29 @@ def main():
     if missing:
         print(f"ERROR: Missing environment variable(s): {', '.join(missing)}")
         return
+    
+    client = Retell(
+        api_key=api_key
+)
+        
 
     print("Pretty Good AI patient bot starting...")
     print("Retell API key loaded successfully!")
     print(f"Calling from: {from_number}")
     print(f"Assessment number: {test_number}")
+    print("Connecting to Retell...")
 
+    try:
+        call = client.call.create_phone_call(
+            from_number=from_number,
+            to_number=test_number,
+        )
+
+        print("Call initiated successfully!")
+        print(f"Call ID: {call.call_id}")
+
+    except Exception as error:
+        print(f"ERROR starting call: {error}")
 
 if __name__ == "__main__":
     main()

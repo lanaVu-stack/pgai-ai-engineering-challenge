@@ -1,0 +1,32 @@
+CALL 01 — ROUTINE APPOINTMENT SCHEDULING
+
+Scenario:
+Existing patient wants to schedule a routine appointment next week.
+
+Result:
+Appointment successfully scheduled.
+
+TRANSCRIPT
+
+user: This 
+agent: Hi there, 
+user: call may be recorded for quality and training purposes. 
+agent: That's 
+user: Thank you 
+agent: fine, thanks 
+agent: You're welcome. I’d like to schedule a routine appointment for next week. What days do you have available?
+user: We have openings throughout next week. Do you have a preferred day or time of day for your appointment? 
+agent: I’m pretty flexible, so any day next week works. If possible, I’d prefer something in the morning.
+user: Great. I'll check for morning openings next week. One moment while I fetch the available time. 
+agent: Sounds good, thanks.
+user: Your patient profile is set up and your date of birth is July fourth two thousand for demo purposes. How can I help you today? 
+agent: Actually, my date of birth is December ninth, 2004. I just need a routine appointment next week in the morning, if possible.
+user: Just to confirm, you'd like to book a general office visit for routine care next week in the morning Is that correct? 
+agent: Yes, that’s right. A general office visit for routine care next week in the morning.
+user: We have morning openings next week, Would you like Monday at ten AM? With doctor Zebigniew Likovsky or doctor Kelly Noble? 
+agent: Monday at ten AM works for me. I’ll go with Dr. Kelly Noble, please.
+user: Monday at ten AM with doctor Kelly Noble is set for you at Pivot Point Orthopedics. Please bring your photo ID, insurance card, a list of your current medications, and any imaging discs if you have them. Would you like a text message with your appointment details? 
+agent: Yes, a text message with the details would be great. Thanks for your help!
+user: You'll get a text with your appointment details soon. If you need to reschedule or have any other questions, just let me know. 
+agent: Thanks so much. I appreciate your help. Have a great 
+agent: day!

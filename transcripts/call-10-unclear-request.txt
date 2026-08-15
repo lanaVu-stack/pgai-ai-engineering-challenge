@@ -1,0 +1,30 @@
+CALL 10 - UNCLEAR REQUEST
+
+Scenario:
+Existing patient has a request, however it is unclear.
+
+Result:
+Successful connection and positive result.
+
+TRANSCRIPT
+
+user: This call may be recorded for quality and training purposes. 
+user: Thank you for 
+agent: Hi, I need 
+user: calling 
+agent: Hi, 
+user: How can I help you with your What do you need help with today? 
+agent: I need to change something about my appointment.
+user: Would you like to create a demo patient profile first? I just need your first and last name to get started. 
+agent: My name is Louise Nguyen.
+user: Your patient profile is set up, and your date of birth is July fourth. Two thousand. How can I help you with your appointment today? 
+agent: Actually, my date of birth is December ninth, 2004. I need to reschedule my appointment because I’m not available on the current day.
+user: You don't have any upcoming appointments scheduled right now. You like to book a new appointment? Instead? 
+agent: Yes, I’d like to book a new appointment. I’m hoping for something next week in the afternoon if possible.
+user: What type of appointment do you need to book? Example, is this for a routine visit? A follow-up, a new patient consultation, or something else. 
+agent: It’s for a routine visit.
+user: We have openings for a routine visit. Next week in the afternoon. Would you like Monday, August seventeenth at three PM with doctor Zigniew Lukowski or three PM with the same provider. 
+agent: Either option works for me. Let’s go with Monday, August seventeenth at three PM with Dr. Lukowski.
+user: Your appointment is set for Monday, August seventeenth at three PM with doctor Zegnew Lakoski at Pivot Point Orthopedics. Please bring your photo ID, insurance card, a list of current medications, and any imaging discs if you have them. Is there anything else you need help with? 
+agent: No, that’s all I needed. Thanks for your help. Have a great 
+agent: day!

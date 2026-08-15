@@ -1,0 +1,51 @@
+CALL 02 — ROUTINE APPOINTMENT RESCHEDULING
+
+Scenario:
+Existing patient wants to schedule a routine appointment next week.
+
+Result:
+Appointment successfully scheduled.
+
+TRANSCRIPT
+
+agent: Hi 
+user: This 
+agent: there, 
+user: call may be recorded for quality and training purposes. 
+agent: Okay, 
+user: Thank you. 
+agent: that's fine.
+agent: You're welcome. How can 
+user: (unintelligible audio)
+agent: I help you?
+agent: Sorry, 
+user: Hi there. 
+agent: I didn't 
+agent: Hi!
+user: No 
+agent:  What 
+user: prob. 
+agent: Thanks.
+user: How can I help you to you're welcome? What can I assist you with today? 
+agent: I actually wanted to reschedule my appointment. Do you have any openings next week in the afternoon?
+user: I can help with that. Would you like to create a demo patient profile first? I just need your first and last name to get started. 
+agent: My name is Louise Nguyen.
+agent: Just checking in—did you need any more information from me to 
+user: Your patient 
+agent: reschedule my appointment?
+user: profile is set up, and your date of birth is July fourth two thousand How can I help you today? 
+agent: Actually, my date of birth is December ninth, two thousand four. I’d like to reschedule my appointment for an afternoon next week, if possible.
+user: You have an appointment scheduled for Monday, August seventeenth at AM with doctor Zeebigniew Lukosky at Nashville. Two two zero Athens Way. Is this the appointment you want to reschedule? 
+agent: Yes, that’s the one I’d like to reschedule. Do you have any afternoon openings next week?
+user: I have an opening on Tuesday, August eighteenth at two PM with doctor Zidnew Lukowski in Nashville. Would you like to reschedule to that time? 
+user: Or hear other options? 
+agent: Tuesday at 2 PM works for me. Can you please reschedule my appointment to that time?
+user: I can do that. Can you tell me the reason you need to re your appointment? 
+agent: I’m just unavailable on the original date. Is that enough information?
+user: Yes. That's perfect. Just to confirm, you want to move your appointment to Tuesday, August eighteenth at two PM. With doctor Zigmew Minkowski in Nashville. Is that correct? 
+agent: Yes, that’s correct. Thank you for confirming.
+user: Your request is being processed. One moment while I reschedule your appointment. Your appointment is now set for Tuesday, August eighteenth at two PM with doctor Zigniew in Nashville. Would you like a text message with your new appointment details? 
+agent: Yes, a text message would be great. Thanks for your help!
+user: I sent a text with your new appointment details to your phone ending in two four four five. Is there anything else I can help you with today? 
+agent: No, that’s all I needed. Thanks again and have a 
+agent: great day!

@@ -1,0 +1,24 @@
+CALL 05 — PRESCRIPTION CHANGE
+
+Scenario:
+Existing patient wants to change prescription.
+
+Result:
+Successful connection and positive result.
+
+TRANSCRIPT
+
+user: This call may be recorded for quality and training purposes. 
+agent: Hi, 
+user: Thank you for call 
+agent: my name 
+agent: Hi, I’m calling because I’d like to discuss changing one of my current prescriptions. Can you tell me what I need to do for that?
+user: Would you like to create a demo patient profile so I can help with your prescription request? I just need your first and last name to get started. 
+agent: Sure, my name is Louise Nguyen. What’s the next step?
+user: Your patient profile is set up. And your date of birth is July fourth two thousand for demo purposes. How can I help you today? 
+agent: Thanks. I’d like to ask about changing one of my prescriptions. Can you tell me what I need to do to request a change?
+user: To request a change to your prescription, you'll need to speak with your provider. I can document your request and have our clinic support team follow-up with you as soon as possible. Would you like me to start that process? 
+agent: Yes, that would be great. Please go ahead and start the process. What should I expect next?
+user: Once I document your request, the clinic staff will review it and contact you to discuss your prescription change. They'll reach out as soon as possible to the number you're calling from. Let me file your request now. The clinic support team will review your request and contact you soon to discuss your prescription change. They'll reach out using your phone number. You have any urgent concerns, please let me know. 
+agent: That sounds good, thank you for your help. I'll wait for the clinic staff 
+agent: to contact me.

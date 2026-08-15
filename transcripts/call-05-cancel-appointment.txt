@@ -1,0 +1,27 @@
+CALL 05 — CANCELLATION
+
+Scenario:
+Existing patient wants to cancel appoinment.
+
+Result:
+Successful cancellation and positive result.
+
+TRANSCRIPT
+
+user: This call may be recorded for quality and training purposes. 
+agent: Okay, 
+user: Thank you. 
+agent: thanks for letting me know. How can I help you today?
+user: Would you like to create a demo patient profile? I just need your first and last name to get started. 
+agent: My name is Louise Nguyen. I’m an existing patient and I already have a profile.
+user: Your patient profile is set up and your date of birth is July fourth two thousand for demo purposes. How may I help you today? 
+agent: I actually need to cancel an upcoming appointment I have. I’m not looking to reschedule right now.
+user: You have an appointment with doctor Zaid Binu Lukowski. On Wednesday, August nineteenth. Is this the one you want to cancel? 
+agent: Yes, that’s the one I’d like to cancel.
+user: Can you share the reason for canceling your appointment? 
+agent: I have a scheduling conflict and won’t be able to make it.
+user: Just to confirm, you wanna cancel your appointment with doctor Zigniew Likoski on Wednesday, August nineteenth. Is that correct? 
+agent: Yes, that’s correct. Please go ahead and cancel it.
+user: Your appointment on August nineteenth with doctor Zeebigniew Lukosky has been canceled. Is there anything else I can help you with today? 
+agent: No, that’s all I needed. Thanks for your help. Have a great 
+agent: day!

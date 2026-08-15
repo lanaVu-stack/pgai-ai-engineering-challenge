@@ -1,0 +1,33 @@
+CALL 03 — ROUTINE APPOINTMENT RESCHEDULING
+
+Scenario:
+Existing patient wants to schedule a routine appointment next week.
+
+Result:
+Appointment successfully scheduled.
+
+TRANSCRIPT
+
+
+agent: Hi there, 
+user: This call may be recorded for quality and training purposes. 
+agent: Okay, that's 
+user: Thank you. 
+agent: fine. I need to reschedule my appointment, please.
+user: Would you like to create a demo patient profile first? I just need your first and last name to get started. 
+agent: My name is Louise Nguyen.
+user: Your patient profile is set up. And your date of birth is July fourth two thousand. How can I help you today? 
+agent: Actually, my date of birth is December ninth, two thousand four. I’d like to reschedule my appointment.
+user: You have an appointment scheduled for Tuesday, August eighteenth. At two PM. With doctor Zebigniew Likoski at Nashville two two zero Athens Way, Is this the appointment you want to reschedule? 
+agent: Yes, that’s the one I need to reschedule. Do you have any openings next week in the afternoon?
+user: I have an opening on Monday, August seventeenth at three PM with doctor Zibignu Likoski in Nashville. Would you like to move your appointment to that time? Or hear another option? 
+agent: Monday at three PM works for me. Can you please move my appointment to that time?
+user: Before I reschedule, you tell me the reason you need to move your appointment? 
+agent: I’m unavailable on the original date, so I need to move it. Is that okay?
+user: That works. Thanks. Just to confirm, you'd like to move your appointment to Monday, August seventeenth at three PM with doctor Zed Bigniew Lukowski in Nashville. Is that correct? Please bring a photo ID and your insurance card to your visit. 
+agent: Yes, that’s correct. Thanks for your help!
+user: Your appointment is now set for Monday, August seventeenth at three PM with doctor Zebigniew Lukowski in Nashville. Would you like me to send you a text message with these details? 
+agent: Yes, a text message would be great. Thanks again!
+user: I've sent the text with your new appointment details to your phone ending in two four four five. Let me know if you need anything else. 
+agent: That’s all I needed today. Have a great 
+agent: day!
