@@ -32,3 +32,11 @@ During early test calls, the simulated patient began speaking while the medical 
 I lowered response eagerness and interruption sensitivity, changed the welcome behavior so the remote side speaks first, and added explicit prompt instructions to wait until automated announcements finish.
 
 Later calls showed clean turn-taking at the beginning of the conversation.
+
+## Summary
+
+Across the 10 test calls, the conversational agent generally completed the requested tasks successfully. The most significant issue observed was an unexpected loss of conversational context during appointment scheduling.
+
+An early turn-taking issue was also identified in the simulated patient configuration. After adjusting speech settings and prompting behavior, later calls demonstrated cleaner turn-taking during automated opening messages.
+
+Reviewing both transcripts and call recordings was important because transcript segmentation did not always perfectly represent the timing heard in the actual audio.
